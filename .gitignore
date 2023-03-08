@@ -1,3 +1,5 @@
 新たなtext.txt
 新規 テキスト ドキュメント.txt
 無視/無視用.txt
+sandbox/*
+!.keep
