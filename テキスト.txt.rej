@@ -1,0 +1,9 @@
+diff a/テキスト.txt b/テキスト.txt	(rejected hunks)
+@@ -1,4 +1,4 @@
+ AAAA
+ BBBB
+ CCCC
+-DDDD
+\ No newline at end of file
++DDdd
+\ No newline at end of file
